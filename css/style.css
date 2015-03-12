@@ -1,5 +1,5 @@
 body{
-	background:#1f2227;
+	background:#ffffff;
 	color:#b0b3b3;
 	font-size:14px;
 	font-family: helvetica, arial, sans-serif;
@@ -34,10 +34,10 @@ body, html{
 	margin: 10% auto;
 }
 .image{
-	width: 576px;
-	height: 360px;
+	width: 1055px;
+	height: 750px;
 	display: block;
-	background: url(../images/background.png) no-repeat center;
+	background: url(file:///C:/Users/Administrator/Desktop/1.jpg) no-repeat center;
 	-webkit-animation-duration: 4s;
 	   -moz-animation-duration: 4s;
 	    -ms-animation-duration: 4s;
@@ -147,7 +147,7 @@ a.twitter:hover{
 		height: 640px;
 	}
 	.image{
-		background: url(../images/background-ipad.png) no-repeat center center!important;
+		background: url(file:///C:/Users/Administrator/Desktop/1.jpg) no-repeat center center!important;
 		-webkit-background-size: cover!important;
 		-moz-background-size: cover!important;
 		-o-background-size: cover!important;
